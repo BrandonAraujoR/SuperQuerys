@@ -2,14 +2,15 @@ Equipo 5 - The Last One
 
 Integrantes:
 <br>
-- Pardo Alanis Alan Israel
+Pardo Alanis Alan Israel
 <br>
-- Araujo Rodriguez Brandon
+Araujo Rodriguez Brandon
 <br>
--Villanueva Sanchez Andres
+Villanueva Sanchez Andres
 <br>
 
 Instrucciones Para Instalar Proyecto -- SUPERQUERYS
+<br>
 <br>
 
 --> Instalar Composer https://getcomposer.org/doc/00-intro.md
